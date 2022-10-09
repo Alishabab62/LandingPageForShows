@@ -1,0 +1,95 @@
+#header{
+    background-color:#990000;
+    height:80px;
+    width: 100%;
+}
+div h3{
+    position: relative;
+    top: 18px;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 1000px;
+    margin-left: 42%;
+    position: relative;
+    top: 50px;
+}
+#show-name{
+    border: 2px solid #edceb5;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: grey;
+    display: inline;
+    padding: 20px 45px;
+    position: relative;
+    top: 100px;
+    left: 41.5%;
+}
+#watch a{
+    position: relative;
+    background-color:#e60000 ;
+    padding: 10px 55px;
+    top: 500px;
+    left: 37.5%;
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    top: 185px;
+}
+#watch a:hover{
+   /* box-shadow: 10px 10px beige; */
+box-shadow:#992600 0px 0px 5px 5px;
+    }
+
+#add a{
+    background-color: white;
+    border: 1px solid lightcoral;
+    position: relative;
+    display: inline;
+    left: 37.5%;
+    padding: 10px 75px;
+    top: 225px;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+#add a:hover{
+    box-shadow:#ffd9cc 0px 0px 5px 5px;
+}
+
+#footer{
+    background-color: #990000;
+    height: 100px;
+    width: 100%;
+    position: relative;
+    top: 280px;
+}
+span{
+    color: white;
+    font-family: sans-serif;
+    border-bottom: 1px dashed white;
+    position: relative;
+    top: 35px;
+}
+
+#net{
+    left:36.5%;
+}
+#you{
+    left:43.5%;
+}
+#insta{
+    left:48.5%;
+}
+
